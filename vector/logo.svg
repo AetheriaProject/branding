@@ -1,0 +1,18 @@
+<svg width="256" height="256" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>logo</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(3976 -1081)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -3976 1081L -3720 1081L -3720 1337L -3976 1337L -3976 1081Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="logo" clip-path="url(#clip-0)">
+<path d="M -3976 1081L -3720 1081L -3720 1337L -3976 1337L -3976 1081Z"/>
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(-3938 1154)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 81.1212 0L 117.774 0L 131.35 24L 101.601 24L 112.227 43L 142.099 43L 155.675 67L 125.648 67L 136.273 86L 166.423 86L 180 110L 129.215 110L 56.6624 110L 70.201 86L 108.735 86L 75.0974 25.8504L 27.6208 110L 0 110L 58.6126 6.12744L 62.0578 0L 69.0978 0L 81.1212 0Z"/>
+</defs>
+</svg>

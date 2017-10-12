@@ -1,0 +1,36 @@
+<svg width="523" height="177" viewBox="0 0 523 177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>logotype</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(3651 -3060)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -3651 3060L -3128 3060L -3128 3237L -3651 3237L -3651 3060Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="logotype" clip-path="url(#clip-0)">
+<path d="M -3651 3060L -3128 3060L -3128 3237L -3651 3237L -3651 3060Z" fill="#111111"/>
+<g id="Group">
+<g id="&#195;&#134;THERIA">
+<use xlink:href="#path0_fill" transform="translate(-3498.52 3119)" fill="#EEEEEE"/>
+<use xlink:href="#path1_fill" transform="translate(-3498.52 3119)" fill="#EEEEEE"/>
+<use xlink:href="#path2_fill" transform="translate(-3498.52 3119)" fill="#EEEEEE"/>
+<use xlink:href="#path3_fill" transform="translate(-3498.52 3119)" fill="#EEEEEE"/>
+<use xlink:href="#path4_fill" transform="translate(-3498.52 3119)" fill="#EEEEEE"/>
+</g>
+<g id="&#195;&#134;THERIA">
+<use xlink:href="#path5_fill" transform="translate(-3580 3119)" fill="#EEEEEE"/>
+</g>
+<g id="&#195;&#134;THERIA">
+<use xlink:href="#path6_fill" transform="matrix(-1 0 0 1 -3200 3119)" fill="#EEEEEE"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 50.956 11.1676L 32.6588 11.1676L 32.6588 60L 17.9623 60L 17.9623 11.1676L 0 11.1676L 0 0L 50.956 0L 50.956 11.1676Z"/>
+<path id="path1_fill" d="M 108.151 60L 93.538 60L 93.538 34.9451L 71.8911 34.9451L 71.8911 60L 57.1947 60L 57.1947 0L 71.8911 0L 71.8911 23.8187L 93.538 23.8187L 93.538 0L 108.151 0L 108.151 60Z"/>
+<path id="path2_fill" d="M 155.297 34.5742L 132.184 34.5742L 132.184 48.8736L 159.484 48.8736L 159.484 60L 117.488 60L 117.488 0L 159.567 0L 159.567 11.1676L 132.184 11.1676L 132.184 23.8187L 155.297 23.8187L 155.297 34.5742Z"/>
+<path id="path3_fill" d="M 188.123 38.8187L 180.167 38.8187L 180.167 60L 165.471 60L 165.471 0L 189.463 0C 196.692 0 202.345 1.57967 206.42 4.73901C 210.495 7.89835 212.533 12.3626 212.533 18.1319C 212.533 22.3077 211.668 25.7692 209.937 28.5165C 208.234 31.2637 205.555 33.489 201.898 35.1923L 214.627 59.3819L 214.627 60L 198.883 60L 188.123 38.8187ZM 180.167 27.6511L 189.463 27.6511C 192.254 27.6511 194.348 26.9368 195.743 25.5082C 197.167 24.0522 197.879 22.033 197.879 19.4506C 197.879 16.8681 197.167 14.8489 195.743 13.3929C 194.32 11.9093 192.226 11.1676 189.463 11.1676L 180.167 11.1676L 180.167 27.6511Z"/>
+<path id="path4_fill" d="M 237.069 60L 222.415 60L 222.415 0L 237.069 0L 237.069 60Z"/>
+<path id="path5_fill" d="M 76.8318 60L 39.2742 60L 38.6881 46.4423L 22.6936 46.4423L 16.3294 60L 0 60L 30.7746 0L 74.2777 0L 74.2777 10.8791L 51.291 10.8791L 51.8353 23.9011L 70.8862 23.9011L 70.8862 34.7802L 52.2959 34.7802L 52.9239 49.1209L 76.8318 49.1209L 76.8318 60ZM 27.9274 35.3159L 38.2275 35.3159L 37.3482 15.2885L 27.9274 35.3159Z"/>
+<path id="path6_fill" fill-rule="evenodd" d="M 50.1 60L 37.4971 60L 37.4971 46.4423L 21.5027 46.4423L 15.1384 60L 0 60L 30.7746 0L 50.1 0L 50.1 60ZM 37.0365 35.3159L 26.7365 35.3159L 37.0365 13.4799L 37.0365 35.3159Z"/>
+</defs>
+</svg>
